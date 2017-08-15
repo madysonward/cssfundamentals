@@ -1,0 +1,21 @@
+.customDiv {
+	padding: 50px 25px 100px 35px;
+ //	border: 1px solid #000
+}
+
+.customW {
+	width: 45%;
+	float: left; // Float raises the element and shifts it to a particular side.
+	display: inline; //Inline allows other elemenrs to be on the same line.
+}
+
+#div3 {
+	width: 45%
+	display: inline;
+}
+/* With padding, margin, etc. spacing goes circular. It starts with top & bottom, then right & left.  
+They can then go on with a third number, to target the bottom in particular...and a fourth to target the left in
+particular.
+
+px are fading out. Instead, use em - 1em = 16px, so keep that in mind!
+*/
