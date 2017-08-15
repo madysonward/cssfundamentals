@@ -14,17 +14,138 @@ h1 {
 .body {
 	width: 200px;
 	height: 200px;
-	border: solid 2px #8e5a3e;
+	border: solid 3px #72452d;
 	background-color: #55634c;
 	border-radius: 130px;	
 }
 
 .leftFin {
-	width: 30px;
+	width: 35px;
 	height: 20px;
-	border: solid 1px #8e5a3e;
-	border-radius: 5px;
+	border: solid 2px #72452d;
+	border-radius: 12px;
 	z-index: 1;
 	position: relative;
-	left: -2%;
+	left: -29px;
+	top: -100px;
+	background-color: #55634c;
 }
+/* original brown used - #8e5a3e*/
+#leftStripe {
+	width: 36px;
+	height: 5px;
+	z-index: 1;
+	position: relative;
+	left: -1px;
+	top: 8px;
+	background-color: #72452d;
+}
+
+.rightFin {
+	width: 35px;
+	height: 20px;
+	border: solid 2px #72452d;
+	border-radius: 12px;
+	z-index: 1;
+	position: relative;
+	left: 197px;
+	top: -127px;
+	background-color: #55634c;
+}
+
+#rightStripe {
+	width: 36px;
+	height: 5px;
+	z-index: 1;
+	position: relative;
+	left: 0px;
+	top: 8px;
+	background-color: #72452d;
+}
+
+.leftEye {
+	width: 28px;
+	height: 38px;
+	border: solid 2px black;
+	border-radius: 32px;
+	z-index: 1;
+	position: relative;
+	left: 38px;
+	top: -170px;
+	background-color: white;
+}
+
+#leftPupil {
+	width: 7px;
+	height: 7px;
+	border: solid 1px black;
+	border-radius: 9px;
+	z-index: 1;
+	position: relative;
+	left: 9px;
+	top: 15px;
+	background-color: black; 
+}
+
+.rightEye {
+	width: 28px;
+	height: 38px;
+	border: solid 2px black;
+	border-radius: 32px;
+	z-index: 1;
+	position: relative;
+	left: 139px;
+	top: -210px;
+	background-color: white;
+}
+#rightPupil {
+	width: 7px;
+	height: 7px;
+	border: solid 1px black;
+	border-radius: 9px;
+	z-index: 1;
+	position: relative;
+	left: 9px;
+	top: 14px;
+	background-color: black; 
+}
+
+.mouth {
+	width: 10px;
+	height: 20px;
+	border: solid 2px black;
+	border-radius: 9px;
+	position: relative;
+	left: 96px;
+	top: -180px;
+	background-color: #cc6363; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
