@@ -1,0 +1,30 @@
+body {
+	background-color: #406cb2; 
+}
+
+h1 {
+	text-align: center;
+}
+
+.wrapper {
+	margin: 20%;
+	padding: 1%
+}
+
+.body {
+	width: 200px;
+	height: 200px;
+	border: solid 2px #8e5a3e;
+	background-color: #55634c;
+	border-radius: 130px;	
+}
+
+.leftFin {
+	width: 30px;
+	height: 20px;
+	border: solid 1px #8e5a3e;
+	border-radius: 5px;
+	z-index: 1;
+	position: relative;
+	left: -2%;
+}
