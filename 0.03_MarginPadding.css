@@ -10,10 +10,10 @@
 }
 
 #div3 {
-	width: 45%
+	width: 45%;
 	display: inline;
 }
-/* With padding, margin, etc. spacing goes circular. It starts with top & bottom, then right & left.  
+/* With padding, margin, etc. measurements goes circular. It starts with top & bottom, then right & left.  
 They can then go on with a third number, to target the bottom in particular...and a fourth to target the left in
 particular.
 
