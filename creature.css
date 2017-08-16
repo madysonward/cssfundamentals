@@ -132,13 +132,293 @@ h1 {
 	top: -380px;
 }
 
+.puffArrowTL {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 9%;
+	top: -433px;
+	transform: rotate(342deg)
+}
 
+.puffArrowUL {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 4%;
+	top: -442px;
+	transform: rotate(331deg)
+}
 
+.puffArrowLU {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 0%;
+	top: -441px;
+	transform: rotate(315deg)
+}
 
+.puffArrowSTL {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: -3%;
+	top: -439px;
+	transform: rotate(293deg)
+}
 
+.puffArrowL {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: -4%;
+	top: -432px;
+	transform: rotate(280deg)
+}
 
+.puffArrowSBL {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: -5%;
+	top: -423px;
+	transform: rotate(279deg)
+}
 
+.puffArrow7 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: -4%;
+	top: -417px;
+	transform: rotate(250deg)
+}
 
+.puffArrow8 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: -2%;
+	top: -413px;
+	transform: rotate(240deg)
+}
+
+.puffArrow9 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 1%;
+	top: -412px;
+	transform: rotate(225deg)
+}
+
+.puffArrow10 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 4%;
+	top: -417px;
+	transform: rotate(213deg)
+}
+
+.puffArrow11 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 7%;
+	top: -425px;
+	transform: rotate(200deg)
+}
+
+.puffArrow12 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 11%;
+	top: -440px;
+	transform: rotate(190deg)
+}
+
+.puffArrow13 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 15%;
+	top: -458px;
+	transform: rotate(178deg)
+}
+
+.puffArrow14 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 20%;
+	top: -484px;
+	transform: rotate(160deg)
+}
+
+.puffArrow15 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 25%;
+	top: -518px;
+	transform: rotate(144deg)
+}
+
+.puffArrow16 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 29%;
+	top: -559px;
+	transform: rotate(129deg)
+}
+
+.puffArrow17 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 31%;
+	top: -602px;
+	transform: rotate(119deg)
+}
+
+.puffArrow18 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 32%;
+	top: -649px;
+	transform: rotate(99deg)
+}
+
+.puffArrow19 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 33%;
+	top: -695px;
+	transform: rotate(85deg)
+}
+
+.puffArrow20 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 32%;
+	top: -737px;
+	transform: rotate(74deg)
+}
+
+.puffArrow21 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 31%;
+	top: -779px;
+	transform: rotate(63deg)
+}
+
+.puffArrow22 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 28%;
+	top: -821px;
+	transform: rotate(49deg)
+}
+
+.puffArrow23 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 25%;
+	top: -858px;
+	transform: rotate(40deg)
+}
+
+.puffArrow24 {
+	width: 0px;
+	height: 0px;
+	border-left: solid 20px transparent;
+	border-right: solid 20px transparent;
+	border-bottom: solid 20px #72452d;
+	position: relative;
+	left: 20%;
+	top: -893px;
+	transform: rotate(20deg)
+}
 
 
 
