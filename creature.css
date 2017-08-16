@@ -132,7 +132,7 @@ h1 {
 	top: -380px;
 }
 
-.puffArrowTL {
+.puffArrow1 {
 	width: 0px;
 	height: 0px;
 	border-left: solid 20px transparent;
@@ -144,7 +144,7 @@ h1 {
 	transform: rotate(342deg)
 }
 
-.puffArrowUL {
+.puffArrow2 {
 	width: 0px;
 	height: 0px;
 	border-left: solid 20px transparent;
@@ -156,7 +156,7 @@ h1 {
 	transform: rotate(331deg)
 }
 
-.puffArrowLU {
+.puffArrow3 {
 	width: 0px;
 	height: 0px;
 	border-left: solid 20px transparent;
@@ -168,7 +168,7 @@ h1 {
 	transform: rotate(315deg)
 }
 
-.puffArrowSTL {
+.puffArrow4 {
 	width: 0px;
 	height: 0px;
 	border-left: solid 20px transparent;
@@ -180,7 +180,7 @@ h1 {
 	transform: rotate(293deg)
 }
 
-.puffArrowL {
+.puffArrow5 {
 	width: 0px;
 	height: 0px;
 	border-left: solid 20px transparent;
@@ -192,7 +192,7 @@ h1 {
 	transform: rotate(280deg)
 }
 
-.puffArrowSBL {
+.puffArrow6 {
 	width: 0px;
 	height: 0px;
 	border-left: solid 20px transparent;
