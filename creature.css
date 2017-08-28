@@ -128,7 +128,7 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 14%;
+	left: 10%;
 	top: -380px;
 }
 
@@ -139,9 +139,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 9%;
+	left: 5.8%;
 	top: -433px;
-	transform: rotate(342deg)
+	transform: rotate(340deg)
 }
 
 .puffArrow2 {
@@ -151,9 +151,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 4%;
-	top: -442px;
-	transform: rotate(331deg)
+	left: 2%;
+	top: -438px;
+	transform: rotate(328deg)
 }
 
 .puffArrow3 {
@@ -175,7 +175,7 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: -3%;
+	left: -2%;
 	top: -439px;
 	transform: rotate(293deg)
 }
@@ -187,7 +187,7 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: -4%;
+	left: -3%;
 	top: -432px;
 	transform: rotate(280deg)
 }
@@ -199,9 +199,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: -5%;
+	left: -3.5%;
 	top: -423px;
-	transform: rotate(279deg)
+	transform: rotate(270deg)
 }
 
 .puffArrow7 {
@@ -211,7 +211,7 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: -4%;
+	left: -3%;
 	top: -417px;
 	transform: rotate(250deg)
 }
@@ -223,8 +223,8 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: -2%;
-	top: -413px;
+	left: -1.3%;
+	top: -409px;
 	transform: rotate(240deg)
 }
 
@@ -235,8 +235,8 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 1%;
-	top: -412px;
+	left: .7%;
+	top: -410px;
 	transform: rotate(225deg)
 }
 
@@ -248,8 +248,8 @@ h1 {
 	border-bottom: solid 20px #72452d;
 	position: relative;
 	left: 4%;
-	top: -417px;
-	transform: rotate(213deg)
+	top: -411px;
+	transform: rotate(209deg)
 }
 
 .puffArrow11 {
@@ -259,9 +259,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 7%;
-	top: -425px;
-	transform: rotate(200deg)
+	left: 7.5%;
+	top: -421px;
+	transform: rotate(191deg)
 }
 
 .puffArrow12 {
@@ -273,7 +273,7 @@ h1 {
 	position: relative;
 	left: 11%;
 	top: -440px;
-	transform: rotate(190deg)
+	transform: rotate(175deg)
 }
 
 .puffArrow13 {
@@ -284,8 +284,8 @@ h1 {
 	border-bottom: solid 20px #72452d;
 	position: relative;
 	left: 15%;
-	top: -458px;
-	transform: rotate(178deg)
+	top: -465.5px;
+	transform: rotate(160deg)
 }
 
 .puffArrow14 {
@@ -295,9 +295,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 20%;
-	top: -484px;
-	transform: rotate(160deg)
+	left: 17.5%;
+	top: -495px;
+	transform: rotate(150deg)
 }
 
 .puffArrow15 {
@@ -307,9 +307,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 25%;
-	top: -518px;
-	transform: rotate(144deg)
+	left: 19.8%;
+	top: -532px;
+	transform: rotate(135deg)
 }
 
 .puffArrow16 {
@@ -319,9 +319,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 29%;
-	top: -559px;
-	transform: rotate(129deg)
+	left: 22%;
+	top: -575px;
+	transform: rotate(121deg)
 }
 
 .puffArrow17 {
@@ -331,9 +331,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 31%;
-	top: -602px;
-	transform: rotate(119deg)
+	left: 23%;
+	top: -618px;
+	transform: rotate(108deg)
 }
 
 .puffArrow18 {
@@ -343,9 +343,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 32%;
-	top: -649px;
-	transform: rotate(99deg)
+	left: 24%;
+	top: -663px;
+	transform: rotate(85deg)
 }
 
 .puffArrow19 {
@@ -355,9 +355,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 33%;
-	top: -695px;
-	transform: rotate(85deg)
+	left: 23.3%;
+	top: -710px;
+	transform: rotate(77deg)
 }
 
 .puffArrow20 {
@@ -367,9 +367,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 32%;
-	top: -737px;
-	transform: rotate(74deg)
+	left: 22.5%;
+	top: -752px;
+	transform: rotate(65deg)
 }
 
 .puffArrow21 {
@@ -379,9 +379,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 31%;
-	top: -779px;
-	transform: rotate(63deg)
+	left: 21.5%;
+	top: -793px;
+	transform: rotate(50deg)
 }
 
 .puffArrow22 {
@@ -391,9 +391,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 28%;
-	top: -821px;
-	transform: rotate(49deg)
+	left: 19.2%;
+	top: -832px;
+	transform: rotate(40deg)
 }
 
 .puffArrow23 {
@@ -403,9 +403,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 25%;
-	top: -858px;
-	transform: rotate(40deg)
+	left: 16%;
+	top: -868px;
+	transform: rotate(25deg)
 }
 
 .puffArrow24 {
@@ -415,9 +415,9 @@ h1 {
 	border-right: solid 20px transparent;
 	border-bottom: solid 20px #72452d;
 	position: relative;
-	left: 20%;
-	top: -893px;
-	transform: rotate(20deg)
+	left: 13%;
+	top: -899px;
+	transform: rotate(15deg)
 }
 
 
